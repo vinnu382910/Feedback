@@ -1,0 +1,31 @@
+/* Write your CSS code here. */
+.main-cont {
+  background: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-cont {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 600px;
+  text-align: center;
+  padding: 30px;
+}
+
+.main-heading {
+  font-family: Roboto;
+}
+
+.emoj-cont {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 15px;
+  padding-top: 10px;
+}
